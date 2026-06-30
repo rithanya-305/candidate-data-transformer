@@ -1,0 +1,18 @@
+{
+    "full_name": "Rithanya",
+    "emails": [
+        "rithanya@example.com"
+    ],
+    "phones": [
+        "+919876543210"
+    ],
+    "skills": [
+        "MongoDB",
+        "Node.js",
+        "Python",
+        "React",
+        "SQL"
+    ],
+    "current_company": "OpenAI",
+    "title": "Software Engineer"
+}
